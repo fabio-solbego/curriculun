@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(106, 253, 143);
+    
+}
+h1{
+    font-family: fantasy; 
+    text-align: center;
+    color: rgb(204, 218, 22);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+    color: rgb(14, 16, 20);
+
+}
+h3{
+    font-size: 20pt;
+    font-family: cursive;
+    text-align-last: center;
+
+
+
+}
+p{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 14pt;
+   color: maroon;
+   text-indent: 20pt;
+   
+}
+li{
+    
+    font-size: 30pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    
+background-color: rgb(71, 18, 29);
+}
+   
